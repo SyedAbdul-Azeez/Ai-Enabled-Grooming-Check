@@ -3,8 +3,11 @@
 
 **Contributor:**
 - Syed Abdul Azeez
-- Aamir Khan
-- Chunaid Khan
+- Junaid
+- Rauf
+- Nabil
+- Saud
+- Sreerag 
 
 **Class:** XII E
 
